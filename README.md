@@ -10,7 +10,7 @@ A **Discussion Board Web Application** built using **PHP**, **CSS**, and **MySQL
 - 🧵 Create and view discussion threads
 - 💬 Post replies to threads
 - 🗃️ Optional: Thread categories
-- 💻 Hacker-style/Terminal UI (dark theme, green-on-black aesthetic)
+- 💻 Hacker-style/Terminal UI (dark theme, green-on-black aesthetic).
 - 📱 Fully Responsive Design.
 
 ---
